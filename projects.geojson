@@ -14,6 +14,20 @@
           40.72922633618936
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Project Name": "Urban Birds of McGolrick Park",
+        "Group Name": "New York City Audubon Society"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.94287526607513,
+          40.7243032397707
+        ]
+      }
     }
   ]
 }
